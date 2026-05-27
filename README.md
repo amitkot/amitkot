@@ -33,8 +33,3 @@ A minimalist Pebble/RePebble watchface project with design iteration, assets, to
 ### `dutchx-market-maker`
 
 Older Ethereum/DeFi work around DutchX market making, connected to my earlier experience with DEX integrations and crypto trading infrastructure.
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/amitkot
-- Website: https://amitkot.com
