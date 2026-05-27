@@ -20,6 +20,12 @@ Alongside engineering work, I have taught Python professionally since 2012, incl
 
 ## Selected projects
 
+### `monitor`
+
+A local-first task monitoring tool for development work, humans, coding agents, and CI.
+
+Built with Rust, Axum, SQLite, REST APIs, SSE live updates, a lightweight web UI, and a CLI. It explores how engineering teams can track work across humans, Claude Code hooks, GitHub webhooks, and coding-agent workflows without depending on a remote SaaS workflow system.
+
 ### `spopy`
 
 A Spotify CLI focused on practical remote/headless usage, including authentication flows, playback control, structured output, and automation-friendly behavior.
