@@ -22,13 +22,9 @@ I also have a broad background in Python backend systems, cloud services, produc
 
 Local-first task monitoring for humans, coding agents, and CI. Built with Rust, Axum, SQLite, REST, SSE, web UI, and CLI.
 
-### `spopy`
+### `claude-code-tools`
 
-A practical Spotify CLI designed for remote/headless usage, automation-friendly output, and playback control from scripts or agent workflows.
-
-### `glyph-dial`
-
-A minimalist Pebble/RePebble watchface project with design iteration, assets, tooling, and release packaging.
+Claude Code plugins, skills, and workflow helpers for AI-assisted development.
 
 ### `dutchx-market-maker`
 
