@@ -16,16 +16,20 @@ I also have a broad background in Python backend systems, cloud services, produc
 - AI-assisted development workflows
 - Engineering communication, mentoring, and technical training
 
-## Selected projects
+## Selected public work
 
 ### `monitor`
 
-Local-first task monitoring for humans, coding agents, and CI. Built with Rust, Axum, SQLite, REST, SSE, web UI, and CLI.
+A Rust prototype for local-first task monitoring across humans, coding agents, and CI.
+
+Built with Axum, SQLite, REST APIs, SSE live updates, a web UI, and a CLI. It started from a practical need to make coding-agent and task state easier to follow.
 
 ### `claude-code-tools`
 
 Claude Code plugins, skills, and workflow helpers for AI-assisted development.
 
-### `dutchx-market-maker`
+This is where I collect reusable pieces around coding-agent workflows, Git practices, and repeatable development tasks.
 
-Older Ethereum/DeFi work around DutchX market making, connected to my earlier experience with DEX integrations and crypto trading infrastructure.
+## Product work
+
+I also built and ran **BringIt**, a Flutter/Firebase event-coordination app that reached thousands of monthly users before being archived in 2025.
