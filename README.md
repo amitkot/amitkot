@@ -16,20 +16,6 @@ I also have a broad background in Python backend systems, cloud services, produc
 - AI-assisted development workflows
 - Engineering communication, mentoring, and technical training
 
-## Selected public work
+## Note
 
-### `monitor`
-
-A Rust prototype for local-first task monitoring across humans, coding agents, and CI.
-
-Built with Axum, SQLite, REST APIs, SSE live updates, a web UI, and a CLI. It started from a practical need to make coding-agent and task state easier to follow.
-
-### `claude-code-tools`
-
-Claude Code plugins, skills, and workflow helpers for AI-assisted development.
-
-This is where I collect reusable pieces around coding-agent workflows, Git practices, and repeatable development tasks.
-
-## Product work
-
-I also built and ran **BringIt**, a Flutter/Firebase event-coordination app that reached thousands of monthly users before being archived in 2025.
+Most of my production backend and infrastructure work is not public. this profile mainly shows public tools, experiments, and older products.
